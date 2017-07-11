@@ -52,5 +52,4 @@ group :production do
   gem 'pg', '~> 0.20.0'
   gem 'rails_12factor'
   gem 'scout_apm'
-  gem 'followanalytics'
 end
